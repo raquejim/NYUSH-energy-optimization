@@ -26,7 +26,7 @@ The total energy cost (Zd) for the optimized schedule was projected to be 34,016
 For more information, please refer to the full report down below. 
 
 ## Gurobi Code 
-[Click here for the Python script](https://code.earthengine.google.com/7671ca8ea04cc0816d6e3dacc1dcacb2)
+[Click here for the Python script](https://colab.research.google.com/drive/12bOEWekKebm3SpKIzGDq0oyHNW-vSlnF)
 
 ## Full Report 
-[Click here for the full report](https://code.earthengine.google.com/7671ca8ea04cc0816d6e3dacc1dcacb2)
+[Click here for the full report](https://docs.google.com/document/d/1OEFA1BS558vGgYqZX_KHiIx8in_Md2P6_lyTWjinfx8/edit?usp=sharing)
