@@ -14,12 +14,12 @@ This project presents an optimization model that aims to lower the energy consum
 Since this model is targeted towards the NYU Shanghai academic building, most of the data was facilitated by the school’s Faculty Management team or collected through information available on the school’s Albert website.
 
 ## Results 
-![Decision Variables](results/.png)
-![Parameter Explanation Table](results/mean-values.png)
-![Objective Function](results/surfacetemp-vs-builtuparea-plot.png)
-![Non-optimized Schedule](results/.png)
-![Optimized Schedule](results/.png)
-![Sensitivity Analysis](results/.png)
+![Decision Variables](results/decision-variables.png)
+![Parameter Explanation Table](results/parameter-table.png)
+![Objective Function](results/objective-function.png)
+![Non-optimized Schedule](results/non-optimized-schedule.png)
+![Optimized Schedule](results/optimized-schedule.png)
+![Sensitivity Analysis](results/sensitivity-analysis.png)
 
 The total energy cost (Zd) for the optimized schedule was projected to be 34,016 RMB. This is calculated by multiplying the cost per course with the number of courses’ groups. By performing the same calculation for the original schedule, we get that the Zd is 41,457 RMB. By reducing the number of courses’ groups from 39 (original schedule) to 32 (optimized schedule), NYU Shanghai could have saved approximately 7,441 RMB for 2025 spring semester just through heating/cooling of one department alone. Scaling this model across other departments could significantly reduce the school’s environmental footprint as well as increase its yearly budget. 
 
